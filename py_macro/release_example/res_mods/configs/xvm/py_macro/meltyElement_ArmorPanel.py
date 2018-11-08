@@ -34,6 +34,7 @@ import AvatarInputHandler
 #  XVM / XFW imports
 # -------------------------
 from xfw import *
+from xfw_actionscript.python import *
 import xvm_main.python.config as config
 
 isReset = False
